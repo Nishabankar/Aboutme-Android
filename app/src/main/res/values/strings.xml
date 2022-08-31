@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Aboutme</string>
+    <string name="name">ZAIN</string>
+    <string name="avatar">Avatar</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio2">
+        My name is nisha
+        \n i am from wakadi
+        \n My name is nisha
+        \n i am from wakadi
+        \n   My name is nisha
+        \n  i am from wakadi
+        \nMy name is nisha
+        \ni am from wakadi
+        \nMy name is nisha
+        \ni am from wakadi
+        \n My name is nisha
+        \n i am from wakadi
+        \n My name is nisha
+        \n i am from wakadi
+        \nMy name is nisha
+        \n i am from wakadi
+        \nMy name is nisha
+        \ni am from wakadi
+        \n My name is nisha
+        \ni am from wakadi
+        \nMy name is nisha
+        \ni am from wakadi
+
+
+    </string>
+    <string name="What_is_your_nick_name">What is your nick name</string>
+    <string name="done">Done</string>
+</resources>
